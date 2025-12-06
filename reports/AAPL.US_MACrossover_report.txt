@@ -1,0 +1,23 @@
+--- Backtest Report for AAPL.US using MACrossover ---
+
+Date Generated: 2025-12-06 00:15:38
+
+Performance Metrics:
+- Total Return: 0.00%
+- Max Drawdown: 0.00%
+- CAGR: 0.00%
+- Sharpe Ratio: 0.00
+- Volatility (Annualized): 0.00%
+- Number of Trades: 0
+- Winning Trades: 0
+- Win Rate: 0.00%
+- Total PnL: 0.00
+- Average PnL per Trade: 0.00
+- Buy and Hold Return: 15.50%
+
+Trade Log (First 10 and Last 10 Entries):
+No trades executed.
+
+Plots generated: AAPL.US_MACrossover_signals.png, AAPL.US_MACrossover_equity_curve.png
+
+--- End of Report ---
